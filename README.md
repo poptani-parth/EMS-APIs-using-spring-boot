@@ -189,20 +189,44 @@ curl "http://localhost:8080/api/departments" `
 ## 🗂️ Project Structure
 
 ```text
-src/main/java/com/EMS/Practice_Project/
-  Application.java
-  config/        (OpenAPI config, data initializer)
-  controller/    (REST controllers)
-  dto/           (request/response DTOs)
-  entity/        (MongoDB entities)
-  exception/     (global exception handling)
-  mapper/        (DTO <-> entity mappers)
-  repository/    (Spring Data repositories)
-  security/      (JWT filter, security config, user details)
-  service/       (service interfaces + implementations)
-src/main/resources/
-  application.yml
+EMS-APIs-using-spring-boot/
+├─ pom.xml
+├─ README.md
+└─ src/
+   └─ main/
+      ├─ java/
+      │  └─ com/EMS/Practice_Project/
+      │     ├─ Application.java
+      │     ├─ config/         # OpenAPI config, data initializer
+      │     ├─ controller/     # REST controllers (API layer)
+      │     ├─ dto/            # Request/response models
+      │     ├─ entity/         # MongoDB entities
+      │     ├─ exception/      # Global exception handling
+      │     ├─ mapper/         # DTO <-> Entity mappers
+      │     ├─ repository/     # Spring Data repositories
+      │     ├─ security/       # JWT filter + security config
+      │     └─ service/        # Business logic (interfaces + impl)
+      └─ resources/
+         └─ application.yml
 ```
+
+---
+
+## 🖼️ Screenshots (example)
+
+> Add your images under a `screenshots/` folder and update the filenames below.
+
+### Swagger UI
+
+<img width="1366" height="691" alt="image" src="https://github.com/user-attachments/assets/e4bd1219-5016-4381-b50e-fcd3e2172017" />
+
+
+<img width="1324" height="693" alt="image" src="https://github.com/user-attachments/assets/330557ad-5696-42a5-ac2e-7e2b75e0297d" />
+
+
+<img width="1321" height="694" alt="image" src="https://github.com/user-attachments/assets/4a393f3c-a13d-4db4-88c5-24da02aa5aee" />
+
+<img width="1327" height="687" alt="image" src="https://github.com/user-attachments/assets/55430262-a682-4333-b06a-243e39744b53" />
 
 ---
 
