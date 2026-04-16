@@ -212,21 +212,39 @@ EMS-APIs-using-spring-boot/
 
 ---
 
-## 🖼️ Screenshots (example)
+## 🖼️ Screenshots (Swagger-UI)
 
-> Add your images under a `screenshots/` folder and update the filenames below.
+> Images of the APIs.
 
 ### Swagger UI
 
 <img width="1366" height="691" alt="image" src="https://github.com/user-attachments/assets/e4bd1219-5016-4381-b50e-fcd3e2172017" />
 
+<hr/>
 
 <img width="1324" height="693" alt="image" src="https://github.com/user-attachments/assets/330557ad-5696-42a5-ac2e-7e2b75e0297d" />
 
+<hr/>
 
 <img width="1321" height="694" alt="image" src="https://github.com/user-attachments/assets/4a393f3c-a13d-4db4-88c5-24da02aa5aee" />
 
+<hr/>
+
 <img width="1327" height="687" alt="image" src="https://github.com/user-attachments/assets/55430262-a682-4333-b06a-243e39744b53" />
+
+<hr/>
+
+<img width="1325" height="697" alt="image" src="https://github.com/user-attachments/assets/a61fca86-ee69-48e8-bb06-721dc301b78b" />
+
+<hr/>
+
+<img width="1325" height="687" alt="image" src="https://github.com/user-attachments/assets/04db36a6-d51e-484b-9096-ba56a707f24f" />
+
+<hr/>
+
+<img width="1325" height="685" alt="image" src="https://github.com/user-attachments/assets/7dd9fd19-17d4-4606-8bf8-7324f1776409" />
+
+<hr/>
 
 ---
 
@@ -241,6 +259,6 @@ EMS-APIs-using-spring-boot/
 
 ## 👤 Author
 
-- **Name**: *(your name)*
-- **GitHub**: *(add link)*
-- **LinkedIn**: *(optional)*
+- **Name**: *Poptani Parth*
+- **GitHub**: *www.github.com/poptani-parth*
+- **LinkedIn**: *https://www.linkedin.com/in/parth-p-1945a431b*
