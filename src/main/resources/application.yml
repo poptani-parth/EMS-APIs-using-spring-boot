@@ -1,0 +1,20 @@
+#spring
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://parthpoptani2_db_user:iU1W1KvtS1zQoR4C@cluster.0bza7uf.mongodb.net/EMSDB?retryWrites=true&w=majority&tls=true&appName=Cluster
+      database: EMSDB
+      auto-index-creation: true
+
+#JWT
+app:
+  jwt: { secret: QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiop1234567890!@#$, expiration-ms: 86400000 }
+
+server:
+  port: 8080
+
+logging:
+  level:
+    org.springframework: INFO
+    com.EMS: DEBUG
+
